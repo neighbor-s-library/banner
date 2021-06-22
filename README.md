@@ -8,7 +8,7 @@
 또 같은 성향의 책을 공유함으로써 커뮤니티도 활성화 될 수 있을꺼 같습니다.
 
 ### 링크
-[Hello Book](13.125.105.120)
+[Hello Book](http://13.125.105.120)
 
 ### 프로젝트 기획안
 ![기획안](https://user-images.githubusercontent.com/72908656/122868522-04778a00-d366-11eb-9e68-f63eee4363b4.png)
