@@ -41,10 +41,10 @@
 <hr/>
 
 ### Frontend
-![링크](https://github.com/neighbor-s-library/front-end)
+[Github 링크](https://github.com/neighbor-s-library/front-end)
 
 ### Backend API 목록
-![링크](https://github.com/neighbor-s-library/back-end)
+[Githu 링크](https://github.com/neighbor-s-library/back-end)
 [API 상세 예정]()
 - GET /products/{id}
 - GET /users
