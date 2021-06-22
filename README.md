@@ -16,7 +16,7 @@
 8656/122858226-e5bcc780-d354-11eb-87cf-ef182e038ba7.png)
 
 ### 데이터베이스 스키마
-![un](https://user-images.githubusercontent.com/72908656/122858226-e5bcc780-d354-11eb-87cf-ef182e038ba7.png)
+![un](https://user-images.githubusercontent.com/72908656/122869665-8e742280-d367-11eb-9837-d097e149eb92.png)
 
 ### 서비스 구조도
 ![구조도](https://user-images.githubusercontent.com/72908656/122866630-3cc99900-d363-11eb-8b2d-be85bc077a82.png)
