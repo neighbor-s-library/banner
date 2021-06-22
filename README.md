@@ -1,4 +1,3 @@
-![Untitled](https://user-images.githubusercontent.com/72908656/122858226-e5bcc780-d354-11eb-87cf-ef182e038ba7.png)
 # 도서 공유 플렛폼 Hello Book
 
 ### 개요
