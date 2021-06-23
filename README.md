@@ -44,7 +44,7 @@
 [Github 링크](https://github.com/neighbor-s-library/front-end)
 
 ### Backend API 목록
-[Githu 링크](https://github.com/neighbor-s-library/back-end)
+[Github 링크](https://github.com/neighbor-s-library/back-end)
 
 
 - GET /products/{id}
