@@ -44,10 +44,22 @@
 [Github 링크](https://github.com/neighbor-s-library/front-end)
 
 ### Backend API 목록
-[Github 링크](https://github.com/neighbor-s-library/back-end)
+[Github 링크](https://github.com/neighbor-s-library/back-end/blob/master/API.md)
 
 
-- GET /products/{id}
-- GET /users
+- GET /users/books/:user_id
+- GET /books/:keyword
+- GET /users/{id}
+- GET /books/:page
+- GET /books/:book_id
+- GET /owner/{user_id}
+- GET /renter/{user_id}
 - POST /users
-- POST /join/ 
+- POST /join
+- POST /login
+- POST /users/pwfind
+- POST /rental
+- POST /books
+- PUT /users
+- PUT /rental
+- PUT /books
