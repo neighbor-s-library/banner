@@ -11,6 +11,9 @@
 
 
 ~~비즈니스 모델은  등록자와 대여자 사이에서 발생 할 수 있는 미 반납, 혹은 연체가 발생 했을 때의 문제를 중간에서 중계를 함으로써 중계 수수료를 수익으로 만들 예정 입니다.~~
+
+
+[![영상](https://img.youtube.com/vi/s2dm9ExR25k/maxresdefault.jpg)](https://youtu.be/s2dm9ExR25k)
 <hr/>
 
 ### 프로젝트 기획안
