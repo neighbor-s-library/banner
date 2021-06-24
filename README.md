@@ -23,7 +23,7 @@
 <hr/>
 
 ### 서비스 구조도
-![구조도](https://user-images.githubusercontent.com/72908656/122866630-3cc99900-d363-11eb-8b2d-be85bc077a82.png)
+![구조도](https://user-images.githubusercontent.com/72908656/123218877-3411c800-d507-11eb-9d0c-87c99d86755a.jpg)
 <hr/>
 
 ### 개발 환경
