@@ -22,7 +22,7 @@
 <hr/>
 
 ### 데이터베이스 스키마
-![un](https://www.notion.so/DB-3e24a9d96f6148258d55eb998decd3e9#3060a91248ab40a090cffb94345c9941)
+![ERD](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bc10dc1c-e187-4a6d-80f4-48e51c055b84/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210625%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210625T055117Z&X-Amz-Expires=86400&X-Amz-Signature=ade9ae17e61dc9e1820a3a53621cd9ebd811a5d2fc13278647a92a2f8729180c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 <hr/>
 
 ### 서비스 구조도
