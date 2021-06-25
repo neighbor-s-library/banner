@@ -40,7 +40,7 @@
 <hr/>
 
 ### 프로토타입 demo
-[Hello Book](http://13.125.105.120)
+[Hello Book](http://3.37.124.104)
 
 
 
