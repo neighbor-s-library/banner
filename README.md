@@ -30,7 +30,7 @@
 <hr/>
 
 ### 개발 환경
-- Javascript
+- React.js
 - Java 11
 - Spring
 - AWS(EC2, RDS)
