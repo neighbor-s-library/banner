@@ -39,7 +39,7 @@
 - Docker
 <hr/>
 
-### 프로토타입 demo
+### Prototype demo
 [Hello Book](http://3.37.124.104)
 
 
@@ -48,10 +48,10 @@
 
 <hr/>
 
-### Frontend
+### Front-end
 [Github 링크](https://github.com/neighbor-s-library/front-end)
 
-### Backend API 목록
+### Back-end API 목록
 [Github 링크](https://github.com/neighbor-s-library/back-end/blob/master/API.md)
 
 
@@ -73,7 +73,7 @@
 - PUT /books
 
 ### 팀구성도
-- 프론트엔드 : 김영일
-- 백엔드 : 김혜지, 조현석
-- 클라우드 : 신시승
+- Front-end : 김영일
+- Back-end : 김혜지, 조현석
+- Cloud Server : 신시승
 - 기획 : 김선우
