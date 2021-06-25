@@ -22,7 +22,7 @@
 <hr/>
 
 ### 데이터베이스 스키마
-![un](https://user-images.githubusercontent.com/72908656/122869665-8e742280-d367-11eb-9837-d097e149eb92.png)
+![un](https://www.notion.so/DB-3e24a9d96f6148258d55eb998decd3e9#3060a91248ab40a090cffb94345c9941)
 <hr/>
 
 ### 서비스 구조도
