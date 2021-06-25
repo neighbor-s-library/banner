@@ -76,4 +76,4 @@
 - Front-end : 김영일
 - Back-end : 김혜지, 조현석
 - Cloud Server : 신시승
-- 기획 : 김선우
+- 기획 및 기술문서 : 김선우
