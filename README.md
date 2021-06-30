@@ -44,7 +44,7 @@
 
 
 
-[![영상](https://img.youtube.com/vi/s2dm9ExR25k/maxresdefault.jpg)](https://youtu.be/s2dm9ExR25k)
+[![영상](https://img.youtube.com/vi/s2dm9ExR25k/maxresdefault.jpg)](https://youtu.be/mKJIIO2RLTo)
 
 <hr/>
 
